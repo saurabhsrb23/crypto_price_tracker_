@@ -1,10 +1,9 @@
-# Real-Time Crypto/Stock Tracker
-
-This project is a mini-website that collects and displays real-time price data for stocks or cryptocurrencies. It uses Next.js, Typescript, Redux, and MongoDB.
+# Real-Time Crypto
+This project is a mini-website that collects and displays real-time price data for cryptocurrencies. It uses Next.js, Typescript, Redux, and MongoDB.
 
 ## Features
 
-- Polls real-time data every few seconds for selected stocks or cryptocurrencies using a free API (e.g., LiveCoinWatch, CoinGecko).
+- Polls real-time data every few seconds for selected cryptocurrencies using a free API (e.g., LiveCoinWatch, CoinGecko).
 - Stores the data in a MongoDB database.
 - Fetches and displays the most recent 20 data entries in a dynamic table.
 - Updates the table in real-time with new data.
